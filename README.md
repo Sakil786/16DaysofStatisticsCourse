@@ -45,5 +45,36 @@ Mean for the above data will be given as:
 
 ![](mean.PNG)
 
+2.**Median**
+* The median is the middle value. 
+* It is the value that splits the dataset in half. 
+* To find the median, order your data from smallest to largest, and then find the data point that has an equal amount of values above it and below it. 
+* The method for locating the median varies slightly depending on whether your dataset has an even or odd number of values. 
+
+Let us consider we have dataset with n values as follows:
+
+![](mean_data.PNG)
+
+Case I) When n is **odd**:
+
+![](odd_median.PNG)
+
+Case II) when n is **even**:
+
+![](even_median.PNG)
+
+**Frequency:**
+* The number of times a variable occurs in the data set is called its frequency.
+
+3.**Mode:** 
+* The mode is the value that occurs the most frequently in your data set i.e. has the highest frequency.
+*  On a bar chart, the mode is the highest bar. 
+*  If the data have multiple values that are tied for occurring the most frequently, you have a multimodal distribution. 
+*  If no value repeats, the data do not have a mode.
+
+
+
+
+
 
 
