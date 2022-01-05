@@ -71,6 +71,25 @@ Case II) when n is **even**:
 *  On a bar chart, the mode is the highest bar. 
 *  If the data have multiple values that are tied for occurring the most frequently, you have a multimodal distribution. 
 *  If no value repeats, the data do not have a mode.
+# Sample vs. Population Mean
+**Sample Mean**
+* The sample mean is the mean calculated from a group of random variables, drawn from the population.
+* It is regarded as an efficient and unbiased estimator of population mean which means that the most expected value for the sample statistic is the population statistic, irrespective of the sampling error.
+* The sample mean is calculated as below:
+
+
+![](sample_mean.PNG)
+
+**Population Mean**
+* Population mean is defined as the average of the all the elements in the population.
+* It is a mean of group characteristic, where group refers to elements of the population like items, persons, etc. and the characteristic is the item of interest.
+* As the population is very large and not known, the population mean is unknown constant.
+* The population mean can be calculated:
+
+![](population_mean.PNG)
+
+
+
 
 
 
